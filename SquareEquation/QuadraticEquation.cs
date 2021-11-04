@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SquareEquation
 {
-    class QuadraticEquation
+    public class QuadraticEquation
     {
         // Hide element
         private double a;
